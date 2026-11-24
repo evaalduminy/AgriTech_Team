@@ -1,0 +1,29 @@
+# ==============================================================================
+# 🌿 AgriTech Coffee Leaf Classifier - Production & Colab Dependencies (v3)
+# ==============================================================================
+# الإصدارات المعتمدة المتوافقة مع Google Colab (Python 3.10/3.11) والتشغيل المحلي
+# ==============================================================================
+
+# Core Machine Learning & Deep Learning Framework
+tensorflow>=2.15.0,<2.19.0
+numpy>=1.23.5,<2.0.0
+
+# Image Processing, Augmentation & Perceptual Hashing (pHash)
+pillow>=10.0.0
+imagehash>=4.3.1,<5.0.0
+scipy>=1.9.0
+pywavelets>=1.4.0
+split-folders>=0.5.1
+
+# Metrics, Evaluation & Visualization
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.2
+
+# Configuration, Testing & Code Quality
+pyyaml>=6.0.1
+pytest>=7.4.0
+pylint>=2.17.0
+flake8>=6.0.0
+jupyter>=1.0.0
+nbconvert>=7.7.0

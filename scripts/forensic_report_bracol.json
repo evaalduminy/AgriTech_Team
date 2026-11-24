@@ -1,0 +1,152 @@
+{
+  "Cercospora": {
+    "class_name": "Cercospora",
+    "total_files": 136,
+    "valid_files": 136,
+    "corrupt_files": [],
+    "unique_md5": 136,
+    "thresholds": {
+      "0": {
+        "unique": 136,
+        "dropped": 0,
+        "drop_pct": 0.0
+      },
+      "2": {
+        "unique": 136,
+        "dropped": 0,
+        "drop_pct": 0.0
+      },
+      "4": {
+        "unique": 136,
+        "dropped": 0,
+        "drop_pct": 0.0
+      }
+    },
+    "pairwise_unique_d4": {
+      "n_unique": 136,
+      "mean": 26.424618736383444,
+      "min": 6,
+      "max": 44
+    }
+  },
+  "Healthy": {
+    "class_name": "Healthy",
+    "total_files": 142,
+    "valid_files": 142,
+    "corrupt_files": [],
+    "unique_md5": 142,
+    "thresholds": {
+      "0": {
+        "unique": 142,
+        "dropped": 0,
+        "drop_pct": 0.0
+      },
+      "2": {
+        "unique": 142,
+        "dropped": 0,
+        "drop_pct": 0.0
+      },
+      "4": {
+        "unique": 142,
+        "dropped": 0,
+        "drop_pct": 0.0
+      }
+    },
+    "pairwise_unique_d4": {
+      "n_unique": 142,
+      "mean": 26.248326840475478,
+      "min": 8,
+      "max": 44
+    }
+  },
+  "Miner": {
+    "class_name": "Miner",
+    "total_files": 253,
+    "valid_files": 253,
+    "corrupt_files": [],
+    "unique_md5": 253,
+    "thresholds": {
+      "0": {
+        "unique": 253,
+        "dropped": 0,
+        "drop_pct": 0.0
+      },
+      "2": {
+        "unique": 253,
+        "dropped": 0,
+        "drop_pct": 0.0
+      },
+      "4": {
+        "unique": 253,
+        "dropped": 0,
+        "drop_pct": 0.0
+      }
+    },
+    "pairwise_unique_d4": {
+      "n_unique": 253,
+      "mean": 26.393500219587175,
+      "min": 6,
+      "max": 44
+    }
+  },
+  "Rust": {
+    "class_name": "Rust",
+    "total_files": 465,
+    "valid_files": 465,
+    "corrupt_files": [],
+    "unique_md5": 465,
+    "thresholds": {
+      "0": {
+        "unique": 465,
+        "dropped": 0,
+        "drop_pct": 0.0
+      },
+      "2": {
+        "unique": 464,
+        "dropped": 1,
+        "drop_pct": 0.21505376344086022
+      },
+      "4": {
+        "unique": 460,
+        "dropped": 5,
+        "drop_pct": 1.0752688172043012
+      }
+    },
+    "pairwise_unique_d4": {
+      "n_unique": 460,
+      "mean": 26.35148242872028,
+      "min": 6,
+      "max": 50
+    }
+  },
+  "Brown_leaf_spot": {
+    "class_name": "Brown_leaf_spot",
+    "total_files": 346,
+    "valid_files": 346,
+    "corrupt_files": [],
+    "unique_md5": 346,
+    "thresholds": {
+      "0": {
+        "unique": 346,
+        "dropped": 0,
+        "drop_pct": 0.0
+      },
+      "2": {
+        "unique": 346,
+        "dropped": 0,
+        "drop_pct": 0.0
+      },
+      "4": {
+        "unique": 346,
+        "dropped": 0,
+        "drop_pct": 0.0
+      }
+    },
+    "pairwise_unique_d4": {
+      "n_unique": 346,
+      "mean": 26.31877356119628,
+      "min": 6,
+      "max": 46
+    }
+  }
+}

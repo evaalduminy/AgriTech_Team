@@ -1,0 +1,62 @@
+# ==============================================================================
+# 🌿 AgriTech Coffee Leaf Classifier - .gitignore
+# ==============================================================================
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Large Datasets & Raw Images (Do not commit gigabytes of images to Git)
+dataset/
+Train/
+Val/
+Test/
+sample_dataset/
+sample_500/
+Gatekeeper_Dataset/
+*.jpg
+*.jpeg
+*.png
+!assets/*.png
+
+# Heavy Model Binaries & Weights (Keep TFLite & Configs, exclude huge epoch weights)
+*.keras
+*.h5
+*.weights.h5
+*dummy*
+!coffee_disease_model.tflite
+!coffee_model_adapted.tflite
+!coffee_model_final.tflite
+!gatekeeper_leaf_filter.tflite
+!gatekeeper_leaf_filter_v2.tflite
+
+# Logs & Runtime Dumps
+*.log
+training_pipeline.log
+checkpoint_events.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output Archives
+*.zip
+!configs/
+
+# Secrets & Keys (Never commit HMAC or encryption keys to git)
+.secrets/
+*.key
+*.secret
+
+
+# Archive directories
+_archive*/

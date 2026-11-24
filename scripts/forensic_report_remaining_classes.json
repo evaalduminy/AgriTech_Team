@@ -1,0 +1,175 @@
+{
+  "Leaf rust": {
+    "class_name": "Leaf rust",
+    "total_files": 8938,
+    "valid_files": 8938,
+    "corrupt_files": [],
+    "unique_md5": 1621,
+    "thresholds": {
+      "0": {
+        "unique": 1097,
+        "dropped": 7841,
+        "drop_pct": 87.72656075184605
+      },
+      "2": {
+        "unique": 1077,
+        "dropped": 7861,
+        "drop_pct": 87.95032445737301
+      },
+      "4": {
+        "unique": 1038,
+        "dropped": 7900,
+        "drop_pct": 88.38666368315059
+      },
+      "8": {
+        "unique": 952,
+        "dropped": 7986,
+        "drop_pct": 89.34884761691654
+      }
+    },
+    "dist_hist_dup_d4": {
+      "0": 7016,
+      "1": 0,
+      "2": 274,
+      "3": 0,
+      "4": 610
+    },
+    "pairwise_unique_d4": {
+      "n_unique": 1038,
+      "mean": 31.30205517249068,
+      "min": 6,
+      "max": 50
+    }
+  },
+  "Miner": {
+    "class_name": "Miner",
+    "total_files": 16978,
+    "valid_files": 16978,
+    "corrupt_files": [],
+    "unique_md5": 1639,
+    "thresholds": {
+      "0": {
+        "unique": 428,
+        "dropped": 16550,
+        "drop_pct": 97.47909058781953
+      },
+      "2": {
+        "unique": 339,
+        "dropped": 16639,
+        "drop_pct": 98.00329838614678
+      },
+      "4": {
+        "unique": 314,
+        "dropped": 16664,
+        "drop_pct": 98.15054776769938
+      },
+      "8": {
+        "unique": 287,
+        "dropped": 16691,
+        "drop_pct": 98.30957709977618
+      }
+    },
+    "dist_hist_dup_d4": {
+      "0": 13127,
+      "1": 0,
+      "2": 2713,
+      "3": 0,
+      "4": 824
+    },
+    "pairwise_unique_d4": {
+      "n_unique": 314,
+      "mean": 31.3584990130441,
+      "min": 6,
+      "max": 48
+    }
+  },
+  "Healthy": {
+    "class_name": "Healthy",
+    "total_files": 20497,
+    "valid_files": 20495,
+    "corrupt_files": [
+      "D:\\JMuBEN_Combined\\Healthy\\2 (691).jpg",
+      "D:\\JMuBEN_Combined\\Healthy\\C2P6E1.jpg"
+    ],
+    "unique_md5": 1512,
+    "thresholds": {
+      "0": {
+        "unique": 1184,
+        "dropped": 19311,
+        "drop_pct": 94.22298121493047
+      },
+      "2": {
+        "unique": 1167,
+        "dropped": 19328,
+        "drop_pct": 94.30592827518906
+      },
+      "4": {
+        "unique": 1165,
+        "dropped": 19330,
+        "drop_pct": 94.31568675286655
+      },
+      "8": {
+        "unique": 1142,
+        "dropped": 19353,
+        "drop_pct": 94.42790924615761
+      }
+    },
+    "dist_hist_dup_d4": {
+      "0": 17986,
+      "1": 0,
+      "2": 1340,
+      "3": 0,
+      "4": 4
+    },
+    "pairwise_unique_d4": {
+      "n_unique": 1165,
+      "mean": 31.09640281403478,
+      "min": 6,
+      "max": 52
+    }
+  },
+  "Phoma": {
+    "class_name": "Phoma",
+    "total_files": 3271,
+    "valid_files": 3270,
+    "corrupt_files": [
+      "D:\\JMuBEN_Combined\\Phoma\\4 (908).jpg"
+    ],
+    "unique_md5": 683,
+    "thresholds": {
+      "0": {
+        "unique": 179,
+        "dropped": 3091,
+        "drop_pct": 94.52599388379205
+      },
+      "2": {
+        "unique": 179,
+        "dropped": 3091,
+        "drop_pct": 94.52599388379205
+      },
+      "4": {
+        "unique": 177,
+        "dropped": 3093,
+        "drop_pct": 94.58715596330275
+      },
+      "8": {
+        "unique": 171,
+        "dropped": 3099,
+        "drop_pct": 94.77064220183486
+      }
+    },
+    "dist_hist_dup_d4": {
+      "0": 3063,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 30
+    },
+    "pairwise_unique_d4": {
+      "n_unique": 177,
+      "mean": 31.400487930148948,
+      "min": 6,
+      "max": 48
+    }
+  }
+}

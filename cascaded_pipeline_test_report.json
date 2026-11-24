@@ -1,0 +1,52 @@
+[
+  {
+    "status": "Rejected",
+    "stage": "Gatekeeper_OOD_Filter",
+    "decision": "Not_A_Leaf",
+    "gatekeeper_score": 0.15476253628730774,
+    "gatekeeper_score_percent": "15.48%",
+    "message": "⚠️ الصورة لا تحتوي على ورقة نبات. يرجى توجيه الكاميرا نحو ورقة البن.",
+    "test_label": "Euro Green 1 (Coffee Leaf)",
+    "image_path": "C:\\Users\\Hawaa\\.gemini\\antigravity\\brain\\c1ac15a1-8b0a-4609-9797-f8640de48dff\\.user_uploaded\\media_1795060575456_80bfb5e1.jpg"
+  },
+  {
+    "status": "Rejected",
+    "stage": "Gatekeeper_OOD_Filter",
+    "decision": "Not_A_Leaf",
+    "gatekeeper_score": 0.21574944257736206,
+    "gatekeeper_score_percent": "21.57%",
+    "message": "⚠️ الصورة لا تحتوي على ورقة نبات. يرجى توجيه الكاميرا نحو ورقة البن.",
+    "test_label": "Euro Green 2 (Coffee Leaf)",
+    "image_path": "C:\\Users\\Hawaa\\.gemini\\antigravity\\brain\\c1ac15a1-8b0a-4609-9797-f8640de48dff\\.user_uploaded\\media_1795070946739_57a5d33b.jpg"
+  },
+  {
+    "status": "Rejected",
+    "stage": "Gatekeeper_OOD_Filter",
+    "decision": "Not_A_Leaf",
+    "gatekeeper_score": 0.053905099630355835,
+    "gatekeeper_score_percent": "5.39%",
+    "message": "⚠️ الصورة لا تحتوي على ورقة نبات. يرجى توجيه الكاميرا نحو ورقة البن.",
+    "test_label": "Foreign OOD: 2.png",
+    "image_path": "D:\\probe_foreign\\2.png"
+  },
+  {
+    "status": "Rejected",
+    "stage": "Gatekeeper_OOD_Filter",
+    "decision": "Not_A_Leaf",
+    "gatekeeper_score": 0.1559334397315979,
+    "gatekeeper_score_percent": "15.59%",
+    "message": "⚠️ الصورة لا تحتوي على ورقة نبات. يرجى توجيه الكاميرا نحو ورقة البن.",
+    "test_label": "Foreign OOD: 1764100816328~2.jpg",
+    "image_path": "D:\\probe_foreign\\1764100816328~2.jpg"
+  },
+  {
+    "status": "Rejected",
+    "stage": "Gatekeeper_OOD_Filter",
+    "decision": "Not_A_Leaf",
+    "gatekeeper_score": 0.005823642015457153,
+    "gatekeeper_score_percent": "0.58%",
+    "message": "⚠️ الصورة لا تحتوي على ورقة نبات. يرجى توجيه الكاميرا نحو ورقة البن.",
+    "test_label": "Foreign OOD: download (6).jfif",
+    "image_path": "D:\\probe_foreign\\download (6).jfif"
+  }
+]
